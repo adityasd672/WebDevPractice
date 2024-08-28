@@ -1,0 +1,38 @@
+*{
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #E1D7B7;
+    font-size: 1.5rem;
+}
+
+nav{
+    background-color: #1E2A5E;
+}
+
+body {
+    background-color: #E1D7B7;
+}
+
+.logo>a>img{
+    background-color: #E1D7B7;
+    height: 50px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.head-icons{
+    display: flex;
+    align-items: center;
+}
+
+a:hover{
+    font-size: 2rem;
+    font-weight: 400;
+}
+
